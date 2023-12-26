@@ -1,0 +1,6 @@
+query GetData{
+    getData{
+        id
+        name
+    }
+}

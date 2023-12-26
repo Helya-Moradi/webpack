@@ -1,0 +1,9 @@
+@font-face {
+    font-family: "PlaypenSans";
+    src:url("assets/fonts/PlaypenSans-Regular.ttf") format('truetype')
+}
+
+.text{
+    font-size: 30px;
+    font-family: PlaypenSans;
+}
